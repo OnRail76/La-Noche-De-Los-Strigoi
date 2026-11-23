@@ -1,0 +1,59 @@
+LA NOCHE DE LOS STRIGOI
+GUION CANÓNICO REVISADO · TONY C. WARE
+Proyecto de videojuego de acción y plataformas para Atari de 8 bits
+
+SINOPSIS
+
+Sighișoara, Transilvania, 1847. Tras años de conflictos, la vida de la ciudadela y de las aldeas cercanas parecía haber recuperado la calma. Pero, al caer la noche del solsticio de invierno, las campanas de la colina anuncian una desgracia: los Strigoi han quebrado el sello del inframundo y regresan para reclamar la carne de los vivos.
+
+Las familias cierran sus puertas, colocan ajos en los dinteles y aprietan cruces de madera. Solo Radu, un haiduc de los Cárpatos, se atreve a cruzar el cementerio. Con su baltag y su conocimiento de montañas y bosques, deberá llegar al Trono de Sangre y detener al señor de la noche.
+
+EL PROTAGONISTA: RADU
+
+Radu es un forajido y héroe popular inspirado en los haiducs de la región. Viste una chaqueta de cuero grueso forrada con piel de lobo, una camisa blanca de lino con bordados tradicionales, un cinturón ancho (brâu) para armas secundarias y un sombrero de piel (căciulă). Su arma característica es un baltag, hacha de tradición pastoril y montañesa, que utiliza como arma arrojadiza.
+
+FASE 1. EL CEMENTERIO DE LA COLINA Y LA ESCALERA DE LOS ESTUDIANTES
+
+Escenario: sepulturas, niebla, cuervos, árboles nudosos y una escalera de madera cubierta que asciende hacia la parte alta de la ciudadela. De las vigas caen enemigos que atacan a Radu durante su subida.
+
+Enemigos: zombis que emergen del suelo y Vâvâma, espíritus del bosque con largas garras que aparecen entre los árboles. El nombre Vâvâma se mantiene como denominación creativa del guion.
+
+Jefe final: EL STRIGOI MORT. Este muerto viviente vampírico se teletransporta entre tumbas, lanza murciélagos y desencadena ráfagas de viento helado. Cuando pierde la mitad de su vida, se transforma en un lobo monstruoso que embiste a gran velocidad.
+
+FASE 2. LAS CALLES DE LA CIUDADELA Y LAS TORRES DE LOS GREMIOS
+
+Escenario: callejones medievales, tejados góticos, ventanas y plataformas en las torres de los antiguos gremios. Parte de los tejados se derrumba durante los saltos.
+
+Enemigos: Iele, entidades aéreas vengativas que giran alrededor del protagonista, y gárgolas de piedra que cobran vida.
+
+Jefe final: ARIC, EL SASTRE DE LAS SOMBRAS. Espíritu corrompido de un maestro artesano vinculado a una torre de los sastres. Controla enormes tijeras oxidadas que flotan y lanza agujas de hierro para cerrar zonas de paso. La cabeza es su punto débil, pero la protege un escudo de telas encantadas que debe destruirse antes de golpearla.
+
+FASE 3. LAS MINAS DE SAL SUBTERRÁNEAS Y LAS CRIPTAS
+
+Escenario: cavernas y galerías ficticias inspiradas en minas de sal reales como la de Turda; puentes colgantes, plataformas móviles, agua salada negra y criptas enterradas. Salina Turda está en otra localidad: la conexión geográfica concreta pertenece a la ficción del juego.
+
+Enemigos: Moroi, apariciones inspiradas en variantes del folclore rumano sobre espíritus y muertos que regresan, y Vâlva Băii, seres mineros que lanzan picos y provocan desprendimientos.
+
+Jefe final: MUMA PĂDURII. Una bruja gigantesca inspirada en la figura de la Madre del Bosque. Ocupa cerca de un tercio de la pantalla, golpea con su bastón para provocar lluvias de cristales de sal y estalactitas, invoca raíces espinosas y vomita oleadas de insectos venenosos.
+
+FASE 4. EL PASO DE LOS CÁRPATOS Y LA SELVA BRUMOSA
+
+Escenario: bosque alpino, nieve, truenos, ríos de corriente rápida, troncos flotantes y acantilados donde el viento empuja a Radu hacia atrás.
+
+Enemigos: Lupari, licántropos rápidos que trepan por los árboles, y fuegos fatuos capaces de alterar temporalmente los controles. Lupari se conserva como nombre de enemigo definido por el guion.
+
+Jefe final: EL BALAUR. Dragón de tres cabezas inspirado en la mitología rumana. La cabeza roja escupe fuego; la azul, hielo que congela temporalmente; y la verde, ácido. Las tres cabezas deben destruirse por separado.
+
+FASE 5. EL CASTILLO DEL TRONO DE SANGRE
+
+Escenario: fortaleza del señor de la noche, armaduras malditas que cobran vida, pinchos, trampas, pasillos estrechos y vidrieras góticas que se rompen. Es el recorrido de mayor exigencia, concebido como prueba final de habilidad.
+
+Enemigos: versiones reducidas de jefes anteriores y caballeros de élite no muertos.
+
+Jefe final: EL REY STRIGOI. Soberano demoníaco que ha sumido la región en una oscuridad eterna. Es una quimera alada de sombras y sangre que lanza fuego infernal en trayectoria parabólica. Es el enemigo final de la aventura.
+
+NOTA EDITORIAL SOBRE REALIDAD Y FICCIÓN
+
+Sighișoara, el cementerio de la Iglesia de la Colina, la Escalera Cubierta, la Torre del Reloj y las torres de los gremios son lugares o monumentos reales. El universo sobrenatural, los personajes, los jefes y la conexión entre las localizaciones pertenecen a la ficción. El folclore rumano presenta variantes y no debe confundirse con una clasificación inmutable de criaturas.
+
+FIN DEL GUION REVISADO
